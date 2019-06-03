@@ -1,4 +1,4 @@
-# Python program to find out the finonacci series.
+# Python program to find out the fibonacci series.
 
 fibonacciSeq = input("Enter number for which you want to print fibonacci: \n");
 fibonnaciList= [];
